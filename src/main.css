@@ -31,6 +31,11 @@
   height: 240px;
 }
 
+#portfolio-carousel .carousel-inner .item.activie ul li{
+	list-style-type: 	square !important;
+	list-style-position: inside;
+	line-height: 24px;
+}	 .
 @media (min-width: 768px) {
 
   /* Bump up size of carousel content */
